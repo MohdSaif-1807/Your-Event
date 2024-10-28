@@ -59,7 +59,7 @@ This is a MERN (MongoDB, Express.js, React, Node.js) stack application integrate
    - Start the backend server:
 
      ```bash
-     npm run dev
+     npm start
      ```
 
 3. **Frontend Setup**:
@@ -86,25 +86,39 @@ This is a MERN (MongoDB, Express.js, React, Node.js) stack application integrate
 ## Screenshots
 
 Login Screen:
+
 ![image](https://github.com/user-attachments/assets/e243f150-db31-4fae-aefe-0d483c5ae49e)
 
+
 Getting Logged-In with Google OAUTH2:
+
 ![image](https://github.com/user-attachments/assets/609aeab8-3400-49ce-ae2f-f7defbb33602)
 
+
 Dashboard:
+
 ![image](https://github.com/user-attachments/assets/2edaa037-16ff-47dc-90fc-6705f8712b56)
 
+
 New Event Creation:
+
 ![image](https://github.com/user-attachments/assets/720eb3ab-04dc-4b1f-af63-8fc15b6ada58)
 
+
 Event added and listed Successfully:
+
 ![image](https://github.com/user-attachments/assets/6d1c88ce-6c5f-4afd-847b-66e631fb4978)
 
+
 Cross verifying in Google Calendar:
+
 ![image](https://github.com/user-attachments/assets/dfd58872-cd50-4aef-aeb2-23a53d698a82)
 
+
 Login details added in database:
+
 ![image](https://github.com/user-attachments/assets/c5ee667b-97e5-4af2-a56b-11569a60a8e3)
+
 
 
 
