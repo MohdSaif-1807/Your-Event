@@ -120,6 +120,10 @@ Login details added in database:
 ![image](https://github.com/user-attachments/assets/c5ee667b-97e5-4af2-a56b-11569a60a8e3)
 
 
+Signing-out of the application:
+
+![image](https://github.com/user-attachments/assets/54cf3729-83e8-406d-8829-37b6e4873b96)
+
 
 
 
